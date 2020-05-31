@@ -13,4 +13,4 @@ Descarga el archivo .py y abrelo usandolo pycharm
 
 ## Link de la transmision
 - Dia 1 https://www.youtube.com/watch?v=dTGIxRGNphw&feature=youtu.be
-- Dia 2 (Esperando)
+- Dia 2 https://youtu.be/jmLf7SDP6MI
